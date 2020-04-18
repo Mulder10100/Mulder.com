@@ -1,10 +1,17 @@
-html{
+body{
 	margin: 0px;
+
+	padding-bottom: 5%; 
+
 	background: url(Images/self2.jpg),url(Images/Background1.gif);
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-attachment: fixed;
 	background-blend-mode: lighten;
+}
+
+html{
+	background-color: black;
 }
 
 a{
