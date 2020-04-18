@@ -29,13 +29,13 @@ a{
 }
 
 #AboutMe{
-	color: black;
+	color: Cornsilk;
 
 	padding: 10px;
 
 	margin-top: 5px;
 	margin-bottom: 5px;
-	margin-left: 35%;
+	margin-left: 25%;
 	margin-right: 5%;
 
 	font-size: 150%;
@@ -54,22 +54,22 @@ a{
 
 	margin: 10px;
 	margin-top: 50px;
-	margin-left: 15%;
+	margin-left: 35%;
 
 	font-family: arial;
 	font-weight: 900;
 	font-size: 250%;
 
-	text-align: center;
+	/*text-align: center;*/
 }
 
 #SkillsList{
-	color: black;
+	color: Cornsilk;
 
 	padding: 5px;
 
 	margin: 1px;
-	margin-left: 45%;
+	margin-left: 38%;
 
 	font-weight: 600;
 	font-family: arial;
@@ -77,13 +77,13 @@ a{
 }
 
 li{
-	color: black;
+	color: Cornsilk;
 
 	padding: 5px;
 	
 	margin-top: 1px;
 	margin-bottom:1px;
-	margin-left: 50%;
+	margin-left: 40%;
 	margin-right: 5%;
 
 	font-weight: 600;
@@ -108,11 +108,11 @@ li{
 }
 
 #Education{
-	color: black;
+	color: Cornsilk;
 
 	padding: 5px;
 
-	margin-left: 45%;
+	margin-left: 30%;
 	
 	font-weight: 600;
 	font-family: arial;
@@ -137,7 +137,7 @@ li{
 }
 
 #Work{
-	color: black;
+	color: Cornsilk;
 
 	padding-top: 5px;
 
