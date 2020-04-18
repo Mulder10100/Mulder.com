@@ -1,0 +1,181 @@
+html{
+	margin: 0px;
+	background: url(Images/self2.jpg),url(Images/Background1.gif);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-attachment: fixed;
+	background-blend-mode: lighten;
+}
+
+a{
+	color: #4169E1;
+}
+
+#Heading{
+	color: black;
+
+	padding-top: 4%;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+
+	margin: 20px;
+
+	font-family: arial;
+	font-weight: 900;
+	font-size: 250%;
+
+	text-align: center;
+}
+
+#AboutMe{
+	color: black;
+
+	padding: 10px;
+
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 35%;
+	margin-right: 5%;
+
+	font-size: 150%;
+	font-family: arial;
+	font-weight: 600;
+
+	overflow: auto;
+	display: block;
+	line-height: 30px;
+}
+
+#MySkills{
+	color: black;
+
+	padding: 5px;
+
+	margin: 10px;
+	margin-top: 50px;
+	margin-left: 15%;
+
+	font-family: arial;
+	font-weight: 900;
+	font-size: 250%;
+
+	text-align: center;
+}
+
+#SkillsList{
+	color: black;
+
+	padding: 5px;
+
+	margin: 1px;
+	margin-left: 45%;
+
+	font-weight: 600;
+	font-family: arial;
+	font-size: 150%;
+}
+
+li{
+	color: black;
+
+	padding: 5px;
+	
+	margin-top: 1px;
+	margin-bottom:1px;
+	margin-left: 50%;
+	margin-right: 5%;
+
+	font-weight: 600;
+	font-family: arial;
+	font-size: 150%;
+}
+
+#EducationHeading{
+	color: black;
+
+	padding: 5px;
+
+	margin: 10px;
+	margin-top: 50px;
+	margin-left: 25%;
+
+	font-family: arial;
+	font-weight: 900;
+	font-size: 250%;
+
+	text-align: center;
+}
+
+#Education{
+	color: black;
+
+	padding: 5px;
+
+	margin-left: 45%;
+	
+	font-weight: 600;
+	font-family: arial;
+	font-size: 150%;
+}
+
+#WorkHeading{
+	color: black;
+
+	padding: 5px;
+
+	margin: 10px;
+	margin-top: 50px;
+	margin-left: 25%;
+
+	font-family: arial;
+	font-weight: 900;
+	font-size: 250%;
+
+	text-align: center;
+
+}
+
+#Work{
+	color: black;
+
+	padding-top: 5px;
+
+	margin: 10px;
+	margin-left: 30%;
+	
+	font-weight: 600;
+	font-family: arial;
+	font-size: 150%;
+}
+
+#ContactMe{
+	color: black;
+
+	padding: 20px;
+
+	margin: 5%;
+	margin-bottom: 5px;
+
+	background-color: lightgrey;
+
+	font-family: arial;
+	font-weight: 900;
+
+	text-align: center;
+}
+
+#ContactMeInfo{
+	color: black;
+
+	padding: 20px;
+
+	margin: 5%;
+	margin-top: 5px;
+
+	background-color: lightgrey;
+	
+	font-family: arial;
+	overflow: auto;
+	display: block;
+}
