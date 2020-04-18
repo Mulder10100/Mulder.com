@@ -5,7 +5,7 @@ body{
 
 	background: url(Images/self2.jpg),url(Images/Background1.gif);
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 100%,100%;
 	background-attachment: fixed;
 	background-blend-mode: lighten;
 }
